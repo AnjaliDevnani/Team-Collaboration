@@ -1,2 +1,2 @@
 # Team-Collaboration
-Work done by me UdrCrafts during  my internship.
+Work done by me for UdrCrafts during  my internship.
